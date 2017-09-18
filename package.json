@@ -1,0 +1,23 @@
+{
+  "name": "instagram-node-app",
+  "version": "1.0.0",
+  "description": "Instagram Node App",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "ejs",
+    "instagram",
+    "express",
+    "js"
+  ],
+  "author": "Raja Avinash",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "instagram-node": "^0.5.8"
+  }
+}
